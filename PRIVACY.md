@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Application:** FinArchive
-**Last updated:** 2026-09-22
+**Last updated:** 2026-10-12
 
 ## In one paragraph
 
@@ -100,5 +100,5 @@ contact route above.
 ## Changes
 
 This document is versioned in public at
-<https://github.com/jankaltenecker/finarchive-policies>. Its history is the
+<https://github.com/coldedge-dev/finarchive-policies>. Its history is the
 change log.

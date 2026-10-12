@@ -1,7 +1,7 @@
 # Terms of Use
 
 **Application:** FinArchive
-**Last updated:** 2026-09-21
+**Last updated:** 2026-10-12
 
 ## What this application is
 
@@ -58,5 +58,5 @@ addition to this document.
 ## Changes
 
 This document is versioned in public at
-<https://github.com/jankaltenecker/finarchive-policies>. Its history is the
+<https://github.com/coldedge-dev/finarchive-policies>. Its history is the
 change log.
